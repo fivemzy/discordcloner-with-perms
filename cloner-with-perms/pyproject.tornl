@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "Server-Cloner"
+version = "0.1.0"
+description = ""
+authors = [".gg/d7TBVj5XkK <<>>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+discord = "^1.7.3"
+psutil = "^5.8.0"
+pypresence = "^4.2.1"
+colorama = "^0.4.4"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
